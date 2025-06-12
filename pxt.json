@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Table lamp - Copy": "github:ferpaez01/table-lamp#master"
     },
     "files": [
         "main.blocks",
